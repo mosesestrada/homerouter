@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/aSkEYss.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1>Create a storage pool using Windows storage spaces</h1>
+<h1>Configure and Secure a Home Router</h1>
 
 
 <h2>Description</h2>
@@ -17,8 +17,6 @@ Get ready to take control of your home network like a boss! Configuring and secu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-
-
 <br />If you are going to be adjusting the wireless mode or speeds for your router please check out this <a href="https://www.linksys.com/support-article?articleNum=186891">link</a>. For this demonstration we will not be adjusting the wireless network mode but I'm including the wireless standards just for reference in case you you need it.
 
  <br/>
