@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/aSkEYss.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/ZkHXe65.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Configure and Secure a Home Router</h1>
@@ -46,12 +46,12 @@ Under the administration tab I can change the login username and password for th
 <br />
 That's it we are finished. All that's left is to locate the wireless network and login to it with the settings we set earlier.
  <br/>
-<img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/lKYaogA.jpg" height="80%" width="80%" alt="router"/>
 <br />
 <br />
  
