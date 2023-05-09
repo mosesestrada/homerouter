@@ -44,7 +44,7 @@ Under the administration tab I can change the login username and password for th
 <img src="https://i.imgur.com/5YBFiPR.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
-That's it we are finished. All that's left is to locate the wireless network and login to it with the settings we set earlier.
+That's it, we are finished. All that's left is to locate the wireless network and login to it with the settings we set earlier.
  <br/>
 <img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="router"/>
 <br />
