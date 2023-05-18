@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/ZkHXe65.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/MOYh20N.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Configure and Secure a Home Router</h1>
@@ -23,35 +23,35 @@ Get ready to take control of your home network like a boss! Configuring and secu
 <img src="https://i.imgur.com/RRgeyhG.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
-First step is login to your router via the URL. Check your router's docuemntation if you've never done it. You can always check the router manufacturer's homepage as well.
+First step is login to your router via the URL. Check your router's documentation if you've never done it. You can always check the router manufacturer's homepage as well.
  <br/>
-<img src="https://i.imgur.com/45F4lLG.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/EOqw0e1.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 Here I clicked on the "Wireless" tab and was able to change the SSID(wireless name). When you are finished click apply then save.
 
  <br/>
-<img src="https://i.imgur.com/tyK6Iy8.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/TH8L5lQ.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 From the wireless security tab I was able to change the wireless security mode to WPA from the drop down. For authentication I will be using WPA2 and AES for encryption. I can also change my shared key here which is required to login to this network. I will hit apply then save.
 <br/>
-<img src="https://i.imgur.com/kQxMfk0.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/HcvcgDa.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 Under the administration tab I can change the login username and password for this router. It is a crucial to change this information to better secure your router. When finished hit apply and save. Reboot the router.
  <br/>
-<img src="https://i.imgur.com/5YBFiPR.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/MSeRzE3.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 That's it, we are finished. All that's left is to locate the wireless network and login to it with the settings we set earlier.
  <br/>
-<img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/jApqvvV.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/lKYaogA.jpg" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/Zwb1bFx.jpg" height="80%" width="80%" alt="router"/>
 <br />
 <br />
  
