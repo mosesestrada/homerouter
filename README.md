@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/MOYh20N.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/NXFchJ9.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Configure and Secure a Home Router</h1>
